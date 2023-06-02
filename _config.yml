@@ -19,6 +19,7 @@ include:
   - _pages
 exclude:
   - package.json
+  - package-lock.json
   - pnpm-lock.yaml
   - '*.config.js'
   - '*.txt'
