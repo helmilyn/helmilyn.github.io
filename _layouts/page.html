@@ -12,5 +12,5 @@ layout: default
 </article>
 
 <div class="flex justify-center my-12">
-	<a href="/"><span>↖</span> Go back to home page</a>
+	<a href="{{ page.back_url | default: '/' }}"><span>↖</span> Go back to home page</a>
 </div>

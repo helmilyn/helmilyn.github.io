@@ -4,6 +4,7 @@ thumbnail_url: /assets/img/misiu/misiu-thumbnail.jpg
 title: Misiu
 subtitle: Product design for notebooks
 custom_order: 4
+back_url: /graphic-design
 ---
 Misiu Notebooks are a whimsical collection of beautifully designed notebooks featuring charming bear illustrations. These enchanting companions offer a delightful writing experience while capturing the spirit of imagination and adventure.
 

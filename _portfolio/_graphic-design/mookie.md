@@ -4,6 +4,7 @@ thumbnail_url: /assets/img/mookie/mookie-thumbnail.jpg
 title: Mookie
 subtitle: Package and brand design for plant-based milk and cookies
 custom_order: 3
+back_url: /graphic-design
 ---
 Mookie is a vibrant and cheerful brand that creates the perfect harmony of plant-based milk and cookies. Indulge in guilt-free treats that are both delicious and cruelty-free.
 
