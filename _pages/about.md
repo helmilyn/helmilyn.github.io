@@ -15,4 +15,4 @@ In addition to digital work, I enjoy learning about handicraft and fiber art in 
 
 You can get in touch with me via e-mail: [helmilyndesign@gmail.com](mailto:helmilyndesign@gmail.com)
 
-![](/assets/img/about.jpg)
+![](assets/img/about.jpg)
