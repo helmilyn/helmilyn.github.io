@@ -3,6 +3,7 @@ layout: page
 thumbnail_url: /assets/img/mono-no-aware/mono-no-aware-thumbnail.jpg
 title: Mono no aware
 subtitle: Editorial design for a travel and memoir magazine
+custom_order: 2
 ---
 "Mono no aware" is a captivating magazine that explores the profound human experiences of travel, love, friendship, nostalgia, and loss.
 
