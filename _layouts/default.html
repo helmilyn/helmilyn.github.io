@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <title>{{ site.title }} - {{ page.title }}</title>
+    <link rel="stylesheet" href="{{ "/assets/css/main.css" | relative_url }}">
+  </head>
+  <body class="container mx-auto max-w-5xl">
+		<header class="sticky top-0 bg-white py-6 mx-4 lg:mx-0">
+			<nav class="flex justify-between">
+				<a href="/">{{ site.title | downcase }}</a>
+				<a href="/about/">About</a>
+			</nav>
+		</header>
+		<main class="min-h-screen">
+			{{ content }}
+		</main>
+    <footer class="flex justify-center my-6 mx-4 lg:mx-0">
+      &copy; {{ site.title | downcase }}
+    </footer>
+  </body>
+</html>

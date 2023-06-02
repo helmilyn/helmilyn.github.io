@@ -1,0 +1,16 @@
+---
+layout: default
+---
+<article class="prose prose-gray max-w-3xl mx-auto prose-h1:text-center prose-h1:text-3xl prose-h1:font-medium prose-h1:mb-0 prose-h2:text-center prose-h2:text-lg prose-h2:font-normal prose-h2:m-0 prose-h2:mt-2 prose-h3:font-medium">
+	<div class="my-12">
+	<h1>{{ page.title }}</h1>
+	{% if page.subtitle %}
+	<h2>{{ page.subtitle }}</h2>
+	{% endif %}
+	</div>
+	{{ content }}
+</article>
+
+<div class="flex justify-center my-12">
+	<a href="/"><span>↖</span> Go back to home page</a>
+</div>
