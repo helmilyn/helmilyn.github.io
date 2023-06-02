@@ -5,11 +5,14 @@ title: UI/UX design
 ---
 {% for item in site.ui-ux-design %}
 
-<div class="h-64 relative">
+<div class="h-80 relative">
 	<a href="{{ item.url }}">
 		<div class="absolute inset-0 z-0 bg-cover bg-center" style="background-image: url('{{ item.thumbnail_url }}')"></div>
-		<div class="absolute inset-0 z-10 opacity-0 hover:opacity-100 duration-300 flex justify-center items-center text-2xl text-white bg-gray-800/75">
-			{{ item.title }}
+		<div class="absolute inset-0 z-10 opacity-0 hover:opacity-100 duration-300 text-white bg-gray-800/75">
+			<div class="w-full h-full flex flex-col justify-center items-center text-center">
+				<h2 class="w-3/4 text-2xl">{{ item.title }}</h2>
+				<p class="w-3/4 mt-2 text-lg">{{ item.subtitle }}</p>
+			</div>
 		</div>
 	</a>
 </div>
