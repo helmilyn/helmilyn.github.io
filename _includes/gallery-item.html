@@ -1,0 +1,16 @@
+<div class="h-96 relative">
+	<a href="{{ item.url }}">
+		<div class="absolute inset-0 z-0 bg-cover bg-center" style="background-image: url('{{ item.thumbnail_url }}')"></div>
+		<div class="absolute inset-0 z-10 sm:opacity-0 sm:hover:opacity-100 duration-300 sm:bg-gray-800/75">
+			<div class="w-full h-full flex flex-col text-white justify-end sm:justify-center sm:items-center sm:text-center pl-4 pb-4 sm:pl-0 sm:pb-0">
+				<h2 class="w-fit max-w-[75%] text-xl bg-gray-800/75 sm:bg-transparent px-2 py-1 sm:px-0 sm:py-0">{{ item.title }}</h2>
+				<p class="w-fit max-w-[75%] text-base bg-gray-800/75 sm:bg-transparent px-2 py-1 sm:px-0 sm:py-0 mt-2">{{ item.subtitle }}</p>
+			</div>
+		</div>
+		<div class="absolute z-20 right-0 top-0 w-12 h-12">
+			<div class="h-full flex justify-center items-center">
+				<span class="text-2xl text-white opacity-50">🡵</span>
+			</div>
+		</div>
+	</a>
+</div>
