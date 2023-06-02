@@ -10,9 +10,11 @@ collections:
   ui-ux-design:
     output: true
     permalink: /:collection/:name
+    sort_by: custom_order
   graphic-design:
     output: true
     permalink: /:collection/:name
+    sort_by: custom_order
   illustration:
     output: false
 include:

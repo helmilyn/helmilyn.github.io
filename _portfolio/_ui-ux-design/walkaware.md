@@ -3,6 +3,7 @@ layout: page
 thumbnail_url: /assets/img/walkaware/walkaware-thumbnail.jpg
 title: WalkAware
 subtitle: Helping people track their steps in a calm and reflective way
+custom_order: 2
 ---
 
 ![](/assets/img/walkaware/walkaware-thumbnail.jpg)

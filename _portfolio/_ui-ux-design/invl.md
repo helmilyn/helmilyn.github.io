@@ -3,6 +3,7 @@ layout: page
 thumbnail_url: /assets/img/invl/invl-thumbnail.jpg
 title: INVL x EKA collaboration
 subtitle: Persuading people to get life insurance for their children
+custom_order: 1
 ---
 The brief for this project was to “create the life insurance service of the 21st century” and to make the services of INVL attractive to new customers.
 
