@@ -5,6 +5,7 @@ title: Soulbird
 subtitle: Enabling people to take care of their mental health in a gamified way
 custom_order: 4
 ---
+<style>h3 { color: #d69c43 !important; }</style>
 
 ![](/assets/img/soulbird/soulbird-1.png)
 

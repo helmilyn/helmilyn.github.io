@@ -5,6 +5,8 @@ title: INVL x EKA collaboration
 subtitle: Persuading people to get life insurance for their children
 custom_order: 1
 ---
+<style>h3 { color: #4068b1 !important; }</style>
+
 The brief for this project was to “create the life insurance service of the 21st century” and to make the services of INVL attractive to new customers.
 
 The INVL investment management and life insurance group was established in 1991 and operates in the Baltics.

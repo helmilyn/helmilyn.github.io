@@ -5,6 +5,7 @@ title: Finventure
 subtitle: Enabling people to take care of their finances in a gamified way
 custom_order: 3
 ---
+<style>h3 { color: #618a91 !important; }</style>
 
 ![](/assets/img/finventure/finventure-1.png)
 

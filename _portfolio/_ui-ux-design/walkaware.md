@@ -5,6 +5,7 @@ title: WalkAware
 subtitle: Helping people track their steps in a calm and reflective way
 custom_order: 2
 ---
+<style>h3 { color: #6ba1c5 !important; }</style>
 
 ![](/assets/img/walkaware/walkaware-thumbnail.jpg)
 
