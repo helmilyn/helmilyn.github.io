@@ -12,7 +12,7 @@ custom_order: 2
 
 The idea for this project was to redesign the [iPhone fitness app](https://apps.apple.com/us/app/fitness/id1208224953) in terms of evoking a different type of emotion. Instead of feeling anxious, competitive and inadequate when working towards fitness goals, I wanted the user to feel calm, reflective and inspired.
 
-<iframe width="806" height="442" src="https://www.youtube.com/embed/nkuBEC3MJes" title="WalkAware" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<div style="padding:55% 0 0 0;position:relative;"><iframe src="https://www.youtube.com/embed/nkuBEC3MJes" title="WalkAware" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
 
 ### Interaction map
 
