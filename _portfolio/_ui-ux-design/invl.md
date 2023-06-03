@@ -45,7 +45,7 @@ If the employer offers life insurance to their employees, people will also be ab
 
 Right now, if customers want to apply for life insurance, they have to go to INVL’s office, have a consultation and fill out forms on paper.
 
-A digital solution would make all of this a lot more convenient, quick and comfortable.
+A digital solution would make all of this a lot more convenient, quick and&nbsp;comfortable.
 
 ![](/assets/img/invl/invl-4.jpg)
 ![](/assets/img/invl/invl-5.png)

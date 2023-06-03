@@ -33,10 +33,10 @@ In addition, I set a couple design principles to guide me towards the best possi
 
 The design principles I came up with were:
 ‍
-- **Reinforce users positively** – The app should use positive reinforcement to motivate users, such as celebrating achievements and offering rewards.
+- **Reinforce users positively** – The app should use positive reinforcement to motivate users, such as celebrating achievements and offering&nbsp;rewards.
 - ‍**Focus on empathy** – The app should be designed with empathy and compassion for the user, recognizing that everyone's fitness journey is unique and should be supported in a non-judgmental way.
 - ‍**Less is more** – The app should have a simple and easy-to-use interface, with a minimal number of steps required to complete any action.
-- ‍**Be mindful** – The app should encourage mindfulness, being present and aware.
+- ‍**Be mindful** – The app should encourage mindfulness, being present and&nbsp;aware.
 
 ![](/assets/img/walkaware/walkaware-2.gif)
 
@@ -62,7 +62,7 @@ Next day, depending on if they fulfilled their goal or not, they have the chance
 
 The user can get a **monthly overview** in the calendar. The blue dots highlight whether the user reached their goal or not.
 
-There is also an **option to write down thoughts and ideas** regarding the daily question in the notebook. The user can also add photos or voice notes. All the notes are saved and the user can easily search for certain questions or keywords.
+There is also an **option to write down thoughts and ideas** regarding the daily question in the notebook. The user can also add photos or voice notes. All the notes are saved and the user can easily search for certain questions or&nbsp;keywords.
 
 ![](/assets/img/walkaware/walkaware-5.jpg)
 
@@ -70,7 +70,7 @@ There is also an **option to write down thoughts and ideas** regarding the daily
 
 When the user completes a whole month of walking and reflecting, **they unlock new companions**. They can either put them aside or switch their companion. Each animal has their **own personality**.
 
-In addition, the user can always easily change their daily goal to fit their needs.
+In addition, the user can always easily change their daily goal to fit their&nbsp;needs.
 
 ![](/assets/img/walkaware/walkaware-6.jpg)
 

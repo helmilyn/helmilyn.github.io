@@ -15,7 +15,7 @@ Finventure is a gamified money management app where you can save money whilst go
 
 ### Onboarding
 
-During onboarding, you will get a short overview on how to use the app. Finventure will allow you to gather actual savings, which you can use as in-game money.
+During onboarding, you will get a short overview on how to use the app. Finventure will allow you to gather actual savings, which you can use as in&#8209;game money.
 
 ![](/assets/img/finventure/finventure-2.jpg)
 
