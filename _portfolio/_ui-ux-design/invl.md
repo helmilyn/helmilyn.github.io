@@ -13,7 +13,7 @@ The INVL investment management and life insurance group was established in 1991 
 
 ### Persona
 
-The process began by doing desktop research and by conducting interviews.
+The process began by conducting interviews with dozens of people who either have no experience with life insurance or have already made a contract&nbsp;themselves.
 
 Insights from research revealed that people mistrust insurance companies, have no need for life insurance, procrastinate getting insurance or have no knowledge of it whatsoever.
 
