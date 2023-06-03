@@ -35,7 +35,7 @@ The design principles I came up with were:
 ‍
 - **Reinforce users positively** – The app should use positive reinforcement to motivate users, such as celebrating achievements and offering&nbsp;rewards.
 - ‍**Focus on empathy** – The app should be designed with empathy and compassion for the user, recognizing that everyone's fitness journey is unique and should be supported in a non-judgmental way.
-- ‍**Less is more** – The app should have a simple and easy-to-use interface, with a minimal number of steps required to complete any action.
+- ‍**Less is more** – The app should have a simple and easy-to-use interface, with a minimal number of steps required to complete any&nbsp;action.
 - ‍**Be mindful** – The app should encourage mindfulness, being present and&nbsp;aware.
 
 ![](/assets/img/walkaware/walkaware-2.gif)
@@ -74,4 +74,4 @@ In addition, the user can always easily change their daily goal to fit their&nbs
 
 ![](/assets/img/walkaware/walkaware-6.jpg)
 
-Throughout this process, I learnt that emotional design is very powerful and important. Every little aspect can evoke different emotions and it is vital to be aware of how certain designs affect people in order to create the best possible user experience.
+Throughout this process, I learnt that emotional design is very powerful and important. Every little aspect can evoke different emotions and it is vital to be aware of how certain designs affect people in order to create the best possible user&nbsp;experience.

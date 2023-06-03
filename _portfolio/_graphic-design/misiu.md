@@ -6,7 +6,7 @@ subtitle: Product design for notebooks
 custom_order: 4
 back_url: /graphic-design
 ---
-Misiu Notebooks are a whimsical collection of beautifully designed notebooks featuring charming bear illustrations. These enchanting companions offer a delightful writing experience while capturing the spirit of imagination and adventure.
+Misiu Notebooks are a whimsical collection of beautifully designed notebooks featuring charming bear illustrations. These enchanting companions offer a delightful writing experience while capturing the spirit of imagination and&nbsp;adventure.
 
 The star of the show is undoubtedly the adorable bear. "Misiu" translates to "little bear" or "sweetheart" in Polish.
 
